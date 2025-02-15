@@ -1,0 +1,12 @@
+{
+  "name": "discord.js-ext",
+  "version": "1.0.0",
+  "description": "An extension library for discord.js that simplifies bot development.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Junichi Shibasaki",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
